@@ -1,0 +1,18 @@
+.container {
+    background-color: black;
+    height: 200px ;
+}
+
+.box1 {
+    margin: 50px 20px;
+    padding: 25px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.box2 {
+    margin: 20px 20px;
+    padding: 25px;
+    text-align: center;
+    background-color: lightpink;
+}
